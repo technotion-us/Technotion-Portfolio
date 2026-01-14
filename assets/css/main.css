@@ -1774,6 +1774,8 @@ input, select, textarea {
 		width: -webkit-max-content;
 		width: -ms-max-content;
 		width: max-content;
+		width: 100%;
+		max-width: 100%;
 		margin-bottom: 2em;
 	}
 
